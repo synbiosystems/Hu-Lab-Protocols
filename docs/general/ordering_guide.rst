@@ -2,6 +2,7 @@ Ordering Guide
 ==============
 
 .. note::
+
     This ordering guide is based on the current method that the business office follows. This should be updated as and when the protocol changes. 
 
 Generating Quotes
@@ -35,9 +36,11 @@ Once the quote and PO form are ready, submit them through the business office or
 '''https://tamucs.sharepoint.com/sites/CHENBusinessIntranet'''
 
 .. note::
+
     Access to the CHEN Business Intranet requires approval from the business office. Please contact them beforehand if you do not already have access.
 
 .. tip::
+
     The current order request form automatically sends the PO form to the PI for approval. This allows the PI to approve the purchase without downloading and physically     signing the form, thereby speeding up the ordering process.
 
 Ordering Primers
