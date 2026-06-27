@@ -20,6 +20,6 @@ html_logo = "_static/lab_logo.png"
 html_theme_options = {
     "collapse_navigation": False,
     "navigation_depth": 4,
-    "style_nav_header_background": "#2c6854",
+    "style_nav_header_background": "#ed240q",
     "prev_next_buttons_location": "bottom",
 }
