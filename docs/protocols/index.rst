@@ -5,4 +5,4 @@ Protocols
    :maxdepth: 2
    :glob:
 
-   *
+   */index
