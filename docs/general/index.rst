@@ -6,4 +6,4 @@ This section covers all the general topics from equipment maintenance, ordering,
    :maxdepth: 2
    :glob:
 
-   
+   *
