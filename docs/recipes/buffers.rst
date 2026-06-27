@@ -3,7 +3,9 @@ Buffers Recipes
 
 Example 
 --------
+
 Some notes... 
+
 ============  =========
 Component     Quantity
 ============  =========
