@@ -35,10 +35,10 @@ Once the quote and PO form are ready, submit them through the business office or
 https://tamucs.sharepoint.com/sites/CHENBusinessIntranet
 
 .. note::
-Access to the CHEN Business Intranet requires approval from the business office. Please contact them beforehand if you do not already have access.
+    Access to the CHEN Business Intranet requires approval from the business office. Please contact them beforehand if you do not already have access.
 
 .. tip::
-The current order request form automatically sends the PO form to the PI for approval. This allows the PI to approve the purchase without downloading and physically signing the form, making the ordering process faster.
+    The current order request form automatically sends the PO form to the PI for approval. This allows the PI to approve the purchase without downloading and physically     signing the form, making the ordering process faster.
 
 Ordering Primers
 -----------------
