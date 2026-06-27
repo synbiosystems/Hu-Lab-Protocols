@@ -5,5 +5,4 @@ Protocols
    :maxdepth: 2
    :glob:
 
-   cloning/index
    *
