@@ -16,5 +16,6 @@ Contents
    :maxdepth: 2
    :caption: Lab handbook
 
+   general/index
    protocols/index
    recipes/index
