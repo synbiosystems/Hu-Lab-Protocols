@@ -18,6 +18,8 @@ What GitHub is doing for this wiki
 GitHub stores the source files for the lab wiki. The wiki pages are written as
 `.rst` files, which stands for :doc:`reStructured Text <rst_guide>`
 
+The source codes for the wiki can be found at: <https://github.com/synbiosystems/Hu-Lab-Protocols.git>
+
 When a change is approved and added to the main branch of the repository,
 GitHub rebuilds the website from the files in the `docs` folder.
 
@@ -54,8 +56,9 @@ RST writing guide                    `docs/contributor_guide/rst_guide.rst`
 Use an existing category when possible. Examples include `dna_assembly`,
 `dna_fragment_generation`, `special_workflow`, and `transformation`.
 
-If your protocol needs a new category, ask Dr. Hu or repo maintainer before
-creating a new folder.
+... note::
+   If your protocol needs a new category, ask Dr. Hu or repo maintainer before
+   creating a new folder.
 
 File naming rules
 ------------------
@@ -170,9 +173,9 @@ command line.
 
 .. note::
 
-If GitHub says that you need to fork the repository, that is okay. A fork is
-your personal copy of the repository. GitHub will still let you open a pull
-request back to the lab repository.
+   If GitHub says that you need to fork the repository, that is okay. A fork is
+   your personal copy of the repository. GitHub will still let you open a pull
+   request back to the lab repository.
 
 How to edit an existing protocol
 ---------------------------------
@@ -186,8 +189,9 @@ How to edit an existing protocol
 7. Open a pull request.
 8. Request PI review.
 
-Do not edit unrelated files in the same pull request. If you need to fix two
-unrelated protocols, make two pull requests.
+.. note::
+   Do not edit unrelated files in the same pull request. If you need to fix two
+   unrelated protocols, make two pull requests.
 
 How to add a recipe
 --------------------
@@ -206,7 +210,8 @@ Recipes can use the recipe template as the starting point.
 How to add images
 ------------------
 
-You can add images to make the protocol easier to follow.
+.. tip::
+   You can add images to make the protocol easier to follow.
 
 Recommended approach:
 
@@ -224,8 +229,8 @@ Example:
 
 .. warning::
 
-Do not upload confidential information, unpublished data, private notes,
-passwords, API keys, personal information, or large raw data files.
+   Do not upload confidential information, unpublished data, private notes,
+   passwords, API keys, personal information, or large raw data files.
 
 What a protocol upload should include
 -------------------------------------
@@ -242,7 +247,9 @@ A protocol upload should include:
 * Troubleshooting notes, when useful.
 * Version history - very important!
 
-Use the existing protocol template so that pages stay consistent.
+.. tip::
+
+   Use the existing templates so that pages stay consistent.
 
 Before opening a pull request
 ------------------------------
@@ -269,8 +276,9 @@ The pull request will be reviewed.
 If edits are requested, make the edits on the same branch. The pull request will
 update automatically.
 
-The protocol is not part of the official wiki until the pull request is approved
-and merged.
+.. note::
+   The protocol is not part of the official wiki until the pull request is approved
+   and merged.
 
 Helpful GitHub references
 --------------------------
