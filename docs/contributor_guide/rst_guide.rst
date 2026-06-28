@@ -5,7 +5,7 @@ Basics of reStructuredText
     This section is adapted from the lab wiki of the `Galloway Lab at MIT 
     <https://gallowaylabmit.github.io/protocols/en/latest/contributor_guide.html#basics-of-restructuredtext>`_ 
 
-    Link to the `LICENSE<https://github.com/GallowayLabMIT/protocols/blob/latest/LICENSE>`_ is attached. 
+    Link to the `LICENSE <https://github.com/GallowayLabMIT/protocols/blob/latest/LICENSE>`_ is attached. 
 
 reStructuredText (RST) is a *lightweight* markup language. This means that it is not
 as cumbersome as languages like HTML and LaTeX, but still has enough power to make
