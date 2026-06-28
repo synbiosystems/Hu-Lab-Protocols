@@ -56,7 +56,7 @@ RST writing guide                    `docs/contributor_guide/rst_guide.rst`
 Use an existing category when possible. Examples include `dna_assembly`,
 `dna_fragment_generation`, `special_workflow`, and `transformation`.
 
-... note::
+.. note::
    If your protocol needs a new category, ask Dr. Hu or repo maintainer before
    creating a new folder.
 
@@ -187,7 +187,7 @@ How to edit an existing protocol
 5. Add a short commit message.
 6. Commit the change to a new branch.
 7. Open a pull request.
-8. Request PI review.
+8. Request review.
 
 .. note::
    Do not edit unrelated files in the same pull request. If you need to fix two
@@ -205,7 +205,7 @@ Recipes can use the recipe template as the starting point.
    recipe belongs on an existing page.
 5. Make appropriate changes to the template file as required
 6. Paste the template and fill it in.
-7. Open a pull request and request PI review.
+7. Open a pull request and request review.
 
 How to add images
 ------------------
