@@ -10,7 +10,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   glob
 
-   general/index
-   protocols/index
-   recipes/index
+   */index
