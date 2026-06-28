@@ -4,14 +4,13 @@ Guide to Contributing to Lab Protocols GitHub
 This guide explains how to use GitHub to add or update lab protocols and
 recipes. It assumes you have never used GitHub before.
 
-The most important rule
-------------------------
 
-Do not add protocols directly to the final wiki page yourself.
-
-All protocol changes, recipe changes, and protocol uploads should be submitted
-through a pull request. The pull request will be reviewed before the change is
-added to the wiki.
+.. important::
+   Do not add protocols directly to the final wiki page yourself.
+   
+   All protocol changes, recipe changes, and protocol uploads should be submitted
+   through a pull request. The pull request will be reviewed before the change is
+   added to the wiki.
 
 What GitHub is doing for this wiki
 ------------------------------------
