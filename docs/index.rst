@@ -12,4 +12,7 @@ Contents
    :maxdepth: 2
    :glob:
 
-   */index
+   general/index
+   protocols/index
+   recipes/index
+   contributor_guide/index
