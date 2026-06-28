@@ -17,7 +17,7 @@ What GitHub is doing for this wiki
 ------------------------------------
 
 GitHub stores the source files for the lab wiki. The wiki pages are written as
-`.rst` files, which stands for `reStructuredText <`docs/contributor_guide/rst_guide.rst`>`_.
+`.rst` files, which stands for `reStructuredText <docs/contributor_guide/rst_guide.rst>`_.
 
 When a change is approved and added to the main branch of the repository,
 GitHub rebuilds the website from the files in the `docs` folder.
@@ -71,8 +71,6 @@ Use simple file names so links are easy to maintain.
 
 Good examples
 
-```
-
 ::
 
    colony_pcr.rst
@@ -80,13 +78,12 @@ Good examples
    lb_media.rst
 
 Poor examples
-```
 
 ::
 
-Colony PCR final!.rst
-my protocol.docx
-new-protocol(edited).rst
+   Colony PCR final!.rst
+   my protocol.docx
+   new-protocol(edited).rst
 
 Before you start
 -----------------
@@ -222,9 +219,9 @@ Example:
 
 ::
 
-.. image:: img/example_gel.png
-:width: 100%
-:align: center
+   .. image:: img/example_gel.png
+     :width: 100%
+     :align: center
 
 .. warning::
 
