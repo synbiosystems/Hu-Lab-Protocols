@@ -17,7 +17,7 @@ What GitHub is doing for this wiki
 ------------------------------------
 
 GitHub stores the source files for the lab wiki. The wiki pages are written as
-`.rst` files, which stands for `reStructuredText <docs/contributor_guide/rst_guide.rst>`_.
+`.rst` files, which stands for `reStructuredText <\rst_guide.rst>`_.
 
 When a change is approved and added to the main branch of the repository,
 GitHub rebuilds the website from the files in the `docs` folder.
