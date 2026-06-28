@@ -1,5 +1,5 @@
-Beginner's Guide to GitHub for Lab Protocols
-==============================================
+Guide to Contributing to Lab Protocols GitHub
+===============================================
 
 This guide explains how to use GitHub to add or update lab protocols and
 recipes. It assumes you have never used GitHub before.
@@ -10,7 +10,7 @@ The most important rule
 Do not add protocols directly to the final wiki page yourself.
 
 All protocol changes, recipe changes, and protocol uploads should be submitted
-through a pull request. Dr. Hu will review the pull request before the change is
+through a pull request. The pull request will be reviewed before the change is
 added to the wiki.
 
 What GitHub is doing for this wiki
@@ -108,7 +108,7 @@ Make sure you have:
 How to add a new protocol to GitHub using browser
 -------------------------------------------------
 
-This is the recommended beginner workflow because it does not require the
+This is the recommended beginner workflow because it does not require using the
 command line.
 
 1. Go to the lab repository on GitHub.
@@ -211,7 +211,7 @@ You can add images to make the protocol easier to follow.
 
 Recommended approach:
 
-1. Put images in an `img` folder near the page that uses them.
+1. Put images in an `img` folder in the same directory as the page.
 2. Use short file names with lowercase letters and underscores.
 3. Link to the image using a relative path.
 
@@ -241,7 +241,7 @@ A protocol upload should include:
 * Steps written in order.
 * Expected results.
 * Troubleshooting notes, when useful.
-* Version history.
+* Version history - very important!
 
 Use the existing protocol template so that pages stay consistent.
 
