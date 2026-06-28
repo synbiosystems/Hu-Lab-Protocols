@@ -1,5 +1,5 @@
-DNA Fragment Generation
-=================
+Special Workflow
+===============
 
 .. toctree::
    :maxdepth: 1

@@ -1,8 +1,8 @@
-DNA Fragment Generation
+DNA Assembly
 =================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    *
