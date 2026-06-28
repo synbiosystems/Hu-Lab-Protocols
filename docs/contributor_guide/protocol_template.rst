@@ -1,5 +1,9 @@
-Protocol title
-==============
+Protocol Template
+=================
+
+Title
+------
+Clear and easy-to-understand title of the protocol.
 
 Purpose
 -------
