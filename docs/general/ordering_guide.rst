@@ -60,3 +60,11 @@ Plasmid Sequencing
 --------------------
 
 Add the current plasmid sequencing protocol here, including the vendor, quote requirements, submission process, and any account-specific instructions.
+
+
+Version History
+=======    ======
+Author     Date
+=======    ======
+Hari       07/06/2026
+=======    ======
