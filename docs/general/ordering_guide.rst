@@ -29,7 +29,7 @@ Other vendors: Contact the vendor's sales department to request a tax-exempt ord
 
 PO (purchase order) forms contain vendor name, item number(s), item name(s), unit price(s), quantity(quantities), shipping method/cost, and account number.
 
-PO form is available on business office sharepoint or in lab google drive in 'Purchasing' folder (which is pre-filled with some lab information).
+PO form is available on business office sharepoint, or in lab Google Drive in 'Purchasing' folder (which is pre-filled with some lab information).
 
 3. Submitting Order Request
 ------------------------
