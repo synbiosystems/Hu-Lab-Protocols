@@ -7,7 +7,9 @@ Ordering Guide
 1. Generating Quotes
 -----------------
 
-.. Responsibility::
+.. admonition:: Responsibility
+    :class: important
+
     For Amazon orders and websites that allow web-quote generation, creating the quote falls under each individual lab member's responsibility. Once contacting sales reps is necessary, the burden falls to the lab member in charge of ordering. In that case, send that lab member all necessary information in order to request a quote.
 
 Fisher Scientific: Log in with lab credentials. Create a shopping cart and generate a web quote. This typically produces a contract-priced, tax-exempt quote.
@@ -24,7 +26,9 @@ Other vendors: Contact the vendor's sales department to request a tax-exempt ord
 
 2. PO Forms
 ---------
-.. Responsibility::
+.. admonition:: Responsibility
+    :class: important
+
     Filling PO Forms is under the responsibility of the lab member in charge of ordering.
 
 PO (purchase order) forms contain vendor name, item number(s), item name(s), unit price(s), quantity(quantities), shipping method/cost, and account number.
