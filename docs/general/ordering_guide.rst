@@ -2,32 +2,29 @@ Ordering Guide
 ==============
 
 .. note::
-    This ordering guide is based on the current method that the business office follows. This should be updated as and when the protocol changes. 
+    This ordering guide is based on the current method provided by the business office.
 
-Generating Quotes
+1. Generating Quotes
 -----------------
 
-For most routine laboratory items, our primary vendors are Fisher Scientific and VWR.
+.. Primary Vendors::
+    Fisher Scientific and VWR
 
-Fisher Scientific
-Our lab account is set up with Fisher Scientific. Create a shopping cart and generate a web quote. This typically produces a contract-priced, tax-exempt order quote, usually with no shipping charge.
+Fisher Scientific: Log in with lab credentials. Create a shopping cart and generate a web quote. This typically produces a contract-priced, tax-exempt quote.
 
-VWR
-We currently contact our local sales representatives directly to generate quotes.
+VWR: Contact sales rep through lab email to request a quote.
 
-Sigma-Aldrich and NEB
-Since our lab accounts are already set up with these vendors, quotes can be generated directly through their websites. If tax is applied to the order, contact customer service and request a tax-exempt quote.
+Sigma-Aldrich and NEB: Log in with lab credentials. Generate quotes through their websites. If tax is applied to the quote, contact sales and request a tax-exempt quote.
 
-Other vendors
-Contact the vendor's customer service department to request a tax-exempt order quote.
+Other vendors: Contact the vendor's sales department to request a tax-exempt order quote.
 
-PO Forms
+2. PO Forms
 ---------
-PO forms, or purchase order forms, contain all relevant information for an order, including the vendor name, item number, item name, unit price, shipping costs, and account number.
+PO (purchase order) forms contain vendor name, item number(s), item name(s), unit price(s), quantity(quantities), shipping method/cost, and account number.
 
-All PO forms must be approved by Dr. Hu before the order is forwarded to the business office. The PO form used by the Chemical Engineering department is available on the business office SharePoint site.
+PO form is available on business office sharepoint or in lab google drive in 'Purchasing' folder.
 
-Submitting Order Request
+3. Submitting Order Request
 ------------------------
 
 Once the quote and PO form are ready, submit them through the business office order request form on the CHEN Business Intranet:
