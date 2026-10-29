@@ -12,7 +12,10 @@ Contents
    :maxdepth: 2
    :glob:
 
-   general/index
    protocols/index
    recipes/index
+   equipment_procedures/index
+   equipment_maintenance/index
+   lab_management/index
    contributor_guide/index
+   
