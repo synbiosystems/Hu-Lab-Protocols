@@ -86,5 +86,5 @@ Date              Author      Change
 ================  ==========  ======================
 2026-10-28        TB          Simplify, denote responsibility assignment, added info
 ================  ==========  ======================
-2026-summer       HN          Initial Version
+2026-06-27        HN          Initial Version
 ================  ==========  ======================
