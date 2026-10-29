@@ -76,3 +76,15 @@ Plasmid Sequencing
     Not Implemented Yet
 
 Add the current plasmid sequencing protocol here, including the vendor, quote requirements, submission process, and any account-specific instructions.
+
+
+Version history
+---------------
+
+================  ==========  ======================
+Date              Author      Change
+================  ==========  ======================
+2026-10-28        TB          Simplify, denote responsibility assignment, added info
+================  ==========  ======================
+2026-summer       HN          Initial Version
+================  ==========  ======================
