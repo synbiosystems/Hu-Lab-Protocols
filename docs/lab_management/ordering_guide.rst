@@ -6,7 +6,7 @@ Ordering Guide
 
 0. Identifying Items for Purchase
 -----------------
-For standard lab consumables, refer to the 'Hu Group Consumable Catalog <https://docs.google.com/spreadsheets/d/1CUrTDJ9xnsfZ-yfRGP6WdokUkwMn6jWg/edit?usp=drive_link&ouid=102279535347184920177&rtpof=true&sd=true>'_.
+For standard lab consumables, refer to the `Hu Group Consumable Catalog <https://docs.google.com/spreadsheets/d/1CUrTDJ9xnsfZ-yfRGP6WdokUkwMn6jWg/edit?usp=drive_link&ouid=102279535347184920177&rtpof=true&sd=true>`_.
 
 If anything you need is not in this sheet, search these companies first (log in with lab credentials for accurate pricing):
 
