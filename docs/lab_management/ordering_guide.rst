@@ -4,25 +4,36 @@ Ordering Guide
 .. note::
     This ordering guide is based on the current method provided by the business office.
 
+0. Identifying Items for Purchase
+-----------------
+For standard lab consumables, refer to the 'Hu Group Consumable Catalog <https://docs.google.com/spreadsheets/d/1CUrTDJ9xnsfZ-yfRGP6WdokUkwMn6jWg/edit?usp=drive_link&ouid=102279535347184920177&rtpof=true&sd=true>'_.
+
+If anything you need is not in this sheet, search these companies first (log in with lab credentials for accurate pricing):
+
+* Fisher for common consumables https://www.fishersci.com/us/en/home.html
+* VWR for common consumables https://www.vwr.com/us/en/
+* Sigma for common consumables and chemicals https://www.sigmaaldrich.com/US/en
+
+
 1. Generating Quotes
 -----------------
 
 .. admonition:: Responsibility
     :class: important
 
-    For Amazon orders and websites that allow web-quote generation, creating the quote falls under each individual lab member's responsibility. Once contacting sales reps is necessary, the burden falls to the lab member in charge of ordering. In that case, send that lab member all necessary information in order to request a quote.
+    For companies that allow web-quote generation and for Amazon, creating the quote falls under each individual lab member's responsibility. Once contacting sales reps is necessary, the responsibility falls to the lab member in charge of ordering. In that case, send that lab member all necessary information (catalog numbers, quantities) in order to request a quote.
 
-Fisher Scientific: Log in with lab credentials. Create a shopping cart and generate a web quote. This typically produces a contract-priced, tax-exempt quote.
+Fisher Scientific, Sigma-Aldrich, NEB: Log in with lab credentials. Create a shopping cart and generate a web quote. This typically produces a contract-priced, tax-exempt quote. If tax is applied to the quote, contact sales and request a tax-exempt quote.
 
 VWR: Contact sales rep through lab email to request a quote.
 
-Sigma-Aldrich and NEB: Log in with lab credentials. Generate quotes through their websites. If tax is applied to the quote, contact sales and request a tax-exempt quote.
-
-Amazon: In a work document, assemble item names, hyperlinks, ASINs (Amazon Standard Identification Number, available if you scroll down and expand 'Item Details'), prices, quantities, and screenshots of each item. This serves as the quote for later submissions to business office.
+Amazon: In a word document, assemble item names, hyperlinks, ASINs (Amazon Standard Identification Number, available if you scroll down and expand 'Item Details'), prices, quantities, and screenshots of each item. This serves as the quote for later submissions to business office.
 
 Primers, gBlocks, Plasmid Sequencing: See below.
 
-Other vendors: Contact the vendor's sales department to request a tax-exempt order quote.
+Other vendors (e.g. BioRad, RPI, USP) : If no web-quote generation is available, contact the vendor's sales department to request a tax-exempt order quote.
+
+Place the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED.
 
 2. PO Forms
 ---------
@@ -37,6 +48,10 @@ PO form is available on business office sharepoint, or in lab Google Drive in 'P
 
 3. Submitting Order Request
 ------------------------
+.. admonition:: Responsibility
+    :class: important
+
+    The lab member in charge of ordering is responsible for submitting the order request, updating the purchase log, and following up as needed.
 
 Once the quote and PO form are ready, submit them through the business office order request form on the CHEN Business Intranet:
 
