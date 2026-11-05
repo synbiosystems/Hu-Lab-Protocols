@@ -18,7 +18,7 @@ If anything you need is not in this sheet, search these companies first (log in 
 1. Generating Quotes
 -----------------
 
-.. admonition:: **Responsibility**
+.. admonition:: Responsibility
     :class: important
 
     For companies that allow web-quote generation and for Amazon, creating the quote falls under each individual lab member's responsibility. Once contacting sales reps is necessary, the responsibility falls to the lab member in charge of ordering. In that case, send that lab member all necessary information (catalog numbers, quantities) in order to request a quote.
@@ -45,7 +45,7 @@ Place the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED.
 
 2. PO Forms
 ---------
-.. admonition:: **Responsibility**
+.. admonition:: Responsibility
     :class: important
 
     Filling PO Forms is under the responsibility of the lab member in charge of ordering.
@@ -56,7 +56,7 @@ PO form is available on business office sharepoint, or in lab Google Drive in 'P
 
 3. Submitting Order Request
 ------------------------
-.. admonition:: **Responsibility**
+.. admonition:: Responsibility
     :class: important
 
     The lab member in charge of ordering is responsible for submitting the order request, updating the purchase log, and following up as needed.
