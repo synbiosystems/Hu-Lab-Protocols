@@ -31,14 +31,11 @@ If anything you need is not in this sheet, search these companies first (log in 
 
 **Twist (for gBlocks)**: A detailed protocol for Twist ordering is available at https://docs.google.com/document/d/1fiCchI4QCV9sEl12QHM-Uz92NtXfRSHl/edit.
 
-**Other vendors** (e.g. BioRad, RPI, USP) : If no web-quote generation is available, contact the vendor's sales department to request a tax-exempt order quote.
+**Plasmidsaurus (for plasmid sequencing)**: A detailed protocol for `Plasmidsaurus <http://plasmidsaurus.com>`_ ordering is available at `/Common/Wet Lab/Plasmid Sequencing Ordering Protocol.docx <https://docs.google.com/document/d/18hqZ1pRqJsHudFvito9hqyTWR5H7WvVR/edit?usp=sharing&ouid=113113225958146260138&rtpof=true&sd=true>`_
 
-**Primers**: Log into Sigma-Aldrich with lab credentials. Navigate to Products --> Molecular Biology and Functional Genomics --> Oligos, qPCR probes, and peptides --> Custom pre-designed DNA Oligos & qPCR Probes.
+**Sigma-Aldrich (for primers)**: Log into Sigma-Aldrich with lab credentials. Navigate to Products --> Molecular Biology and Functional Genomics --> Oligos, qPCR probes, and peptides --> Custom pre-designed DNA Oligos & qPCR Probes.
 
-**Plasmid Sequencing**: A detailed protocol for Plasmid Sequencing through `plasmidsaurus.com <http://plasmidsaurus.com>`_ is available at `/Common/Wet Lab/Plasmid Sequencint Ordering Protocol.docx <https://docs.google.com/document/d/18hqZ1pRqJsHudFvito9hqyTWR5H7WvVR/edit?usp=sharing&ouid=113113225958146260138&rtpof=true&sd=true>`_
-
-
-
+**Other Vendors** (e.g. BioRad, RPI, USP) : If no web-quote generation is available, contact the vendor's sales department to request a tax-exempt order quote.
 
 Place the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED.
 
