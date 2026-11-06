@@ -35,10 +35,9 @@ If anything you need is not in this sheet, search these companies first (log in 
 
 **Primers**: Log into Sigma-Aldrich with lab credentials. Navigate to Products --> Molecular Biology and Functional Genomics --> Oligos, qPCR probes, and peptides --> Custom pre-designed DNA Oligos & qPCR Probes.
 
-**Plasmid Sequencing**:
+**Plasmid Sequencing**: A detailed protocol for Plasmid Sequencing through `plasmidsaurus.com <http://plasmidsaurus.com>`_ is available at `/Common/Wet Lab/Plasmid Sequencint Ordering Protocol.docx <https://docs.google.com/document/d/18hqZ1pRqJsHudFvito9hqyTWR5H7WvVR/edit?usp=sharing&ouid=113113225958146260138&rtpof=true&sd=true>`_
 
-.. Error::
-    Not Implemented Yet
+
 
 
 Place the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED.
@@ -83,6 +82,7 @@ Version history
 ================  ==========  ======================
 Date              Author      Change
 ================  ==========  ======================
+2026-11-06        TB          Add link to plasmid sequencing protocol, made by Will
 2026-11-05        TB          Adding link to Hu Lab Consumables Sheet and other restructuring
 2026-10-28        TB          Simplify, denote responsibility assignment, added info
 2026-06-27        HN          Initial Version
