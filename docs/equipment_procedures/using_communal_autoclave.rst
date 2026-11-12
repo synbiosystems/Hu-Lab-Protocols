@@ -52,4 +52,12 @@ After the Cycle
 * Open the door slowly and stand back to avoid exposure to hot steam.
 * Allow liquids to cool before moving them and use heat-resistant gloves when handling hot items.
 * Verify that the autoclave tape has changed color before removing the load.
-Using the Communal Autoclave
+
+Version history
+---------------
+
+================  ==========  ======================
+Date              Author      Change
+================  ==========  ======================
+2026-11-11        BJ          Initial version
+================  ==========  ======================
