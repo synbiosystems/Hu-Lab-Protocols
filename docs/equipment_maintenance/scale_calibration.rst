@@ -9,29 +9,42 @@ Materials
 Procedure - Large, glass-encased scale
 ---------
 
+.. image:: docs/contributor_guide/img/large_scale.png
+  :width: 100%
+  :align: center
+
 .. note::
     Manual is saved in Lab_Management/Equipment/Other/Sensitive scale model B2.pdf
 
-1. 
+1. Press CAL
+
+.. image:: docs/contributor_guide/img/cal_button_on_scale.png
+  :width: 100%
+  :align: center
+
+2. Follow instructions on the screen, advancing through by pressing Enter
+
+.. image:: docs/contributor_guide/img/enter_button_on_scale.png
+  :width: 100%
+  :align: center
 
 Procedure - Medium, next to glass-encased scale
 ---------
 
-1.
+1. Enter the menu by pressing Enter, then F (while still holding down Enter). If you see UUGG, you've let go of Enter instead of holding it down. Press Esc, then try again.
+2. Menu display P1.Cal. Press Tare button to enter the submenu for P1.
+3. Displays Cal-E, which means you place on the pre-defined amount of weight, 2000g. Since we don't have a 2000g calibration weight, move down to Cal-U with the down arrow. Cal-U means user-calibration, which allows you to set the calibration weight.
+4. Set value to 1000g with the various arrow buttons.
+5. Press Enter.
+6. Follow unloading and loading instructions, advancing through with Enter at each stage.
+7. When complete, press ESC to exit back out of each menu layer and into normal operation.
 
 Procedure - Small, Agar-Powder Scale (located by Gel-imager)
 ---------
 
-1. 
-
-2. Put a small drop of lubricant onto your fingertip (size of a corn kernel).
-3. Rub between two fingers (Enough to make your fingers shine).
-4. Apply one swipe onto each bucket seat joint (8 total).
-5. Repeat steps 2-3.
-6. Apply one swipe onto bucket seat indentations (8 total).
-NOTE: Too much lubricant will send buckets flying too freely. I emphasize to just lightly and quickly swipe the lubricant in the specified areas.
-7. Do not apply anything to the central screw, into which the attachments are screwed.
-
+1. Hold down the button which has the CAL icon in the corner.
+2. Press Enter when it says CAL.
+3. Clear, Load, and Unload following the instructions. Advance through with enter button.
 
 
 Version history
@@ -40,5 +53,5 @@ Version history
 ================  ==========  ======================
 Date              Author      Change
 ================  ==========  ======================
-2026-10-28        TB          Initial version
+2026-11-12        TB          Initial version
 ================  ==========  ======================
