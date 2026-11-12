@@ -27,3 +27,12 @@ Gibson MM             2.5 µL
 \* Volume can add up to 2.5 µL, based on the concentration and size of your fragments.
 
 * Incubate the reaction at 50 °C for 1 hour.
+
+Version history
+---------------
+
+================  =============   ======================
+Date              Author          Change
+================  =============   ======================
+2026-11-12        BJ (apvd CH)    Initial version
+================  =============   ======================
