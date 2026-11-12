@@ -1,4 +1,4 @@
-General
+Using the Communal Autoclave
 -------
 
 * Sign the autoclave logbook or signup sheet before starting a cycle. This helps identify users if any issues arise with the autoclave.
