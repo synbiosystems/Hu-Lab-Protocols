@@ -45,8 +45,7 @@ General
 * Allow liquids to cool before moving them and use heat-resistant gloves when handling hot items.
 * Verify that the autoclave tape has changed color before removing the load.
 
-Version history
----------------
+**Version history**
 
 ================  ==========  ======================
 Date              Author      Change
