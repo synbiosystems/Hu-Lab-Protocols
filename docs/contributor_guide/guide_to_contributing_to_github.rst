@@ -107,25 +107,25 @@ Make sure you have:
 
    * :doc:`rst_guide`
 
-How to add a new protocol to GitHub using browser
--------------------------------------------------
+.. _add-new-protocol:
 
-This is the recommended beginner workflow because it does not require using the
-command line.
+How to Add a New Protocol
+-------------------------
 
-1. Go to the lab repository on GitHub.
+1. Go to the lab repository (<https://github.com/synbiosystems/Hu-Lab-Protocols.git>).
 
-2. Make sure you are signed in.
+2. Sign in.
 
 3. Open `docs/contributor_guide/protocol_template.rst`.
 
-4. Click `Raw`.
+4. Click the copy icon next to 'Raw' to copy all raw text.
 
-5. Copy all of the template text.
+   .. image:: img/copy_raw_screenshot.png
+     :width: 300px
+     :align: center
+     :alt: Copy icon next to the Raw button on GitHub
 
-6. Go back to the repository file list.
-
-7. Open the folder where the new protocol should go.
+5. Navigate to desired protocol location.
 
    Example:
 
@@ -133,11 +133,9 @@ command line.
 
    docs/protocols/dna_assembly/
 
-8. Click `Add file`.
+6. Click `Add file`, then `Create new file`.
 
-9. Click `Create new file`.
-
-10. Type the file name, ending in `.rst`.
+7. Type the file name, ending in `.rst`.
 
     Example:
 
@@ -145,15 +143,15 @@ command line.
 
     gibson_assembly_troubleshooting.rst
 
-11. Paste the template text into the editor.
+8. Paste the previously copied text.
 
-12. Replace the template text with your protocol. Make appropriate changes to the template as required.
+9. Modify as needed.
 
-13. Use the `Preview` tab to check that the page looks reasonable.
+10. Use the `Preview` tab to check that the page looks reasonable.
 
-14. Scroll to the commit section at the bottom of the page.
+11. Scroll to the commit section at the bottom of the page.
 
-15. Write a short commit message.
+12. Write a short commit message.
 
     Example:
 
@@ -161,15 +159,15 @@ command line.
 
     Add Gibson assembly troubleshooting protocol
 
-16. Choose the option to create a new branch for the change.
+13. Choose the option to create a new branch for the change.
 
-17. Click `Propose changes`.
+14. Click `Propose changes`.
 
-18. GitHub will take you to a pull request page.
+15. GitHub will take you to a pull request page.
 
-19. Fill out the pull request description.
+16. Fill out the pull request description.
 
-20. Create the pull request and request review.
+17. Create the pull request and request review.
 
 .. note::
 
