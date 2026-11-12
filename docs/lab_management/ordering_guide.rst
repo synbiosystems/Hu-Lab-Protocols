@@ -10,9 +10,9 @@ For standard lab consumables, refer to the `Hu Group Consumable Catalog <https:/
 
 If anything you need is not in this sheet, search these companies first (log in with lab credentials for accurate pricing):
 
-* **Fisher** for common consumables https://www.fishersci.com/us/en/home.html
-* **VWR** for common consumables https://www.vwr.com/us/en/
-* **Sigma** for common consumables and chemicals https://www.sigmaaldrich.com/US/en
+* **Fisher** for common consumables `fishersci.com <https://www.fishersci.com/us/en/home.html>`_
+* **VWR** for common consumables `vwr.com <https://www.vwr.com/us/en/>`_
+* **Sigma** for common consumables and chemicals `sigmaaldrich.com <https://www.sigmaaldrich.com/US/en>`_
 
 
 1. Generating Quotes
@@ -29,7 +29,7 @@ If anything you need is not in this sheet, search these companies first (log in 
 
 **Amazon**: In a word document, assemble item names, hyperlinks, ASINs (Amazon Standard Identification Number, available if you scroll down and expand 'Item Details'), prices, quantities, and screenshots of each item. This serves as the quote for later submissions to business office.
 
-**Twist (for gBlocks)**: A detailed protocol for Twist ordering is available at https://docs.google.com/document/d/1fiCchI4QCV9sEl12QHM-Uz92NtXfRSHl/edit.
+**Twist (for gBlocks)**: A detailed protocol for Twist ordering is available at `/Common/Wet Lab/G-Block Ordering Instructions.docx <https://docs.google.com/document/d/1fiCchI4QCV9sEl12QHM-Uz92NtXfRSHl/edit>`_.
 
 **Plasmidsaurus (for plasmid sequencing)**: A detailed protocol for `Plasmidsaurus <http://plasmidsaurus.com>`_ ordering is available at `/Common/Wet Lab/Plasmid Sequencing Ordering Protocol.docx <https://docs.google.com/document/d/18hqZ1pRqJsHudFvito9hqyTWR5H7WvVR/edit?usp=sharing&ouid=113113225958146260138&rtpof=true&sd=true>`_
 
@@ -57,9 +57,7 @@ PO form is available on business office sharepoint, or in lab Google Drive in 'P
 
     The lab member in charge of ordering is responsible for submitting the order request, updating the purchase log, and following up as needed.
 
-Once the quote and PO form are ready, submit them through the business office order request form on the CHEN Business Intranet:
-
-'''https://tamucs.sharepoint.com/sites/CHENBusinessIntranet'''
+Once the quote and PO form are ready, submit them through the business office order request form on the `CHEN Business Intranet <https://tamucs.sharepoint.com/sites/CHENBusinessIntranet>`_.
 
 .. note::
     Access to the CHEN Business Intranet requires approval from the business office. Please contact them beforehand if you do not already have access.
@@ -84,3 +82,15 @@ Date              Author      Change
 2026-10-28        TB          Simplify, denote responsibility assignment, added info
 2026-06-27        HN          Initial Version
 ================  ==========  ======================
+
+
+
+
+
+
+
+
+
+
+
+
