@@ -9,8 +9,7 @@ Materials
 Procedure - Large, glass-encased scale
 ---------
 
-.. image:: docs/contributor_guide/img/large_scale.png
-  :width: 100%
+.. image:: ../contributor_guide/img/large_scale.png
   :align: center
 
 .. note::
@@ -18,14 +17,12 @@ Procedure - Large, glass-encased scale
 
 1. Press CAL
 
-.. image:: docs/contributor_guide/img/cal_button_on_scale.png
-  :width: 100%
+.. image:: ../contributor_guide/img/cal_button_on_scale.png
   :align: center
 
 2. Follow instructions on the screen, advancing through by pressing Enter
 
-.. image:: docs/contributor_guide/img/enter_button_on_scale.png
-  :width: 100%
+.. image:: ../contributor_guide/img/enter_button_on_scale.png
   :align: center
 
 Procedure - Medium, next to glass-encased scale
