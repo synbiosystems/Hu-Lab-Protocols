@@ -40,7 +40,7 @@ If anything you need is not in this sheet, search these companies first (log in 
 3. Obtain Permission from Dr. Hu
 --------------------------------
 
-Obtain permission from Dr. Hu, then place the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED.
+Obtain permission from Dr. Hu, drop the quote in the lab's Management Drive under Purchasing/0-TO BE ORDERED, and contact the lab member in charge of ordering.
 
 4. PO Forms
 ---------
