@@ -80,12 +80,16 @@ This order number is internal to the A&M System—vendors will only recognize th
 
 Issues are handled on a case-by-case basis, but here are some general guidelines to help:
 
-1. If an item has not been received for an unusual amount of time, there are two main possibilities:
+1. If an item has not been received for an unusual amount of time:
 
-    1. The vendor does not have the item in stock, and has a delayed delivery date. This can be confirmed by calling the vendor with the Purchase Order number.
-    2. The vendor never received that item in the order. Log into AggieBuy, search the order ID, navigate to the Purchase Order page, find **Line Details**. Review the items listed. Check that the section **Matching** does not read 'No Matches'.
+- **Call the vendor** with the Purchase Order number from AggieBuy to track the order. The item may be out of stock.
+- If the vendor says they **never received that item** in the order, then there was an issue with AggieBuy, business office, or PO/Quote documents. Double check original PO form for accurate catalog numbers. Then, email chen-business@tamu.edu to explain what's going on, communicate what the vendor said, and request assistance.
 
-.. image:: ../contributor_guide/img/aggiebuy_nomatches.png
+
+2. If an item arrives damaged:
+
+- Contact chen-business@tamu.edu, responding to the initial order email ("Your ___ purchase request has been submitted!"). Request assistance in returning or refunding the item, as needed.
+
 
 Version history
 ---------------
