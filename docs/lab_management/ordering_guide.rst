@@ -67,7 +67,7 @@ The purchase is routed to the PI for approval via email. This process is relativ
 
 At this point, the purchase proceeds to the CHEN business office for actually placing the order. Typically, this is done through AggieBuy. When the order is placed, you will be notified via email with an **order number**. Enter that order number into the Purchase Log and update the purchase log status. 
 
-This order number is internal to the A&M System—vendors will only recognize the **Purchase Order (PO) number**. If you need to contact a vendor regarding an order:
+This order number is internal to the A&M System—vendors will only recognize the **Purchase Order (PO) number**. If you need to contact a vendor regarding an order (maybe to track it):
 
 1. Log into AggieBuy via `SSO <https://sso.tamus.edu/>`_.
 2. Search for the A&M order number in the search bar.
@@ -78,17 +78,7 @@ This order number is internal to the A&M System—vendors will only recognize th
 6. When Problems Arise
 -----------------------
 
-Issues are handled on a case-by-case basis, but here are some general guidelines to help:
-
-1. If an item has not been received for an unusual amount of time:
-
-- **Call the vendor** with the Purchase Order number from AggieBuy to track the order. The item may be out of stock.
-- If the vendor says they **never received that item** in the order, then there was an issue with AggieBuy, business office, or PO/Quote documents. Double check original PO form for accurate catalog numbers. Then, email chen-business@tamu.edu to explain what's going on, communicate what the vendor said, and request assistance.
-
-
-2. If an item arrives damaged:
-
-- Contact chen-business@tamu.edu, responding to the initial order email ("Your ___ purchase request has been submitted!"). Request assistance in returning or refunding the item, as needed.
+Contact chen-business@tamu.edu for damaged goods issues, tracking information, etc.
 
 
 Version history
